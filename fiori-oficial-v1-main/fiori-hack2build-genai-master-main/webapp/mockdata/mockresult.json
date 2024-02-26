@@ -1,0 +1,138 @@
+{
+    "Analysis": [
+            
+            {
+              "Titulo_Noticia": "Petroleo Rico",
+              "Sumario": "A riqueza do petroleo e suas aplicações",
+              "Fonte": "O GLOBO",
+              "Data_Noticia": "21/12/2024",
+              "Impacto": "Positivo",
+              "Link": "www.oglobo.com.br/materia",
+              "Localizacao": "Brasil",
+              "Autor": "Luiza Menezes",
+              "Nova Coluna": "Teste",
+              "Coluna Teste": "Teste 23"
+            },
+            {
+            "Titulo_Noticia": "Energias Renováveis em Alta",
+            "Sumario": "A crescente adoção de fontes de energia limpa",
+            "Fonte": "ESTADÃO",
+            "Data_Noticia": "03/03/2025",
+            "Impacto": "Positivo",
+            "Link": "www.estadao.com.br/energias-renovaveis",
+            "Localizacao": "Global",
+            "Autor": "Ana Rodrigues",
+            "Nova Coluna": "Sustentabilidade",
+            "Coluna Teste": "Teste 56"
+            },
+            {
+            "Titulo_Noticia": "Tecnologia Blockchain: Revolucionando Finanças",
+            "Sumario": "O impacto da tecnologia blockchain no setor financeiro",
+            "Fonte": "EXAME",
+            "Data_Noticia": "10/04/2025",
+            "Impacto": "Positivo",
+            "Link": "www.exame.com.br/blockchain-financeiro",
+            "Localizacao": "Global",
+            "Autor": "Rafael Santos",
+            "Nova Coluna": "Finanças Digitais",
+            "Coluna Teste": "Teste 78"
+            },
+            {
+            "Titulo_Noticia": "Exploração Espacial: Novas Fronteiras",
+            "Sumario": "As últimas descobertas e missões no campo da exploração espacial",
+            "Fonte": "NASA NEWS",
+            "Data_Noticia": "22/06/2025",
+            "Impacto": "Positivo",
+            "Link": "www.nasa.gov/exploracao-espacial",
+            "Localizacao": "Global",
+            "Autor": "Mariana Costa",
+            "Nova Coluna": "Espaço",
+            "Coluna Teste": "Teste 101"
+            },
+            {
+            "Titulo_Noticia": "Turismo Sustentável em Alta",
+            "Sumario": "O crescimento do turismo com foco na preservação ambiental",
+            "Fonte": "NATIONAL GEOGRAPHIC",
+            "Data_Noticia": "14/07/2025",
+            "Impacto": "Positivo",
+            "Link": "www.natgeo.com.br/turismo-sustentavel",
+            "Localizacao": "Global",
+            "Autor": "Paula Mendes",
+            "Nova Coluna": "Viagens",
+            "Coluna Teste": "Teste 112"
+            },
+            {
+            "Titulo_Noticia": "Inovações na Agricultura",
+            "Sumario": "As tecnologias que estão transformando o setor agrícola",
+            "Fonte": "AGROTECH TODAY",
+            "Data_Noticia": "30/08/2025",
+            "Impacto": "Positivo",
+            "Link": "www.agrotechtoday.com/inovacoes-agricultura",
+            "Localizacao": "Global",
+            "Autor": "Fernando Lima",
+            "Nova Coluna": "Agricultura",
+            "Coluna Teste": "Teste 123"
+            },
+            {
+            "Titulo_Noticia": "Crescimento do Mercado de Energia Solar",
+            "Sumario": "A expansão do uso da energia solar como fonte principal",
+            "Fonte": "SOLAR POWER MAGAZINE",
+            "Data_Noticia": "18/09/2025",
+            "Impacto": "Positivo",
+            "Link": "www.solarpowermag.com/crescimento-solar",
+            "Localizacao": "Global",
+            "Autor": "Ricardo Almeida",
+            "Nova Coluna": "Energia",
+            "Coluna Teste": "Teste 134"
+            },
+            {
+            "Titulo_Noticia": "Avanços na Genômica",
+            "Sumario": "As descobertas recentes no estudo do código genético",
+            "Fonte": "SCIENCE JOURNAL",
+            "Data_Noticia": "05/11/2025",
+            "Impacto": "Positivo",
+            "Link": "www.sciencejournal.com/avanços-genomica",
+            "Localizacao": "Global",
+            "Autor": "Isabel Santos",
+            "Nova Coluna": "Ciência",
+            "Coluna Teste": "Teste 145"
+            },
+            {
+            "Titulo_Noticia": "Educação Online: Transformando o Aprendizado",
+            "Sumario": "A revolução do ensino à distância e suas implicações",
+            "Fonte": "EDUCATION WEEK",
+            "Data_Noticia": "02/12/2025",
+            "Impacto": "Positivo",
+            "Link": "www.educationweek.com/educacao-online",
+            "Localizacao": "Global",
+            "Autor": "Cristina Oliveira",
+            "Nova Coluna": "Educação",
+            "Coluna Teste": "Teste 156"
+            },
+            {
+            "Titulo_Noticia": "Aumento da Produção de Carros Elétricos",
+            "Sumario": "O crescimento da indústria automotiva voltada para veículos elétricos",
+            "Fonte": "ELECTRIC DRIVE NEWS",
+            "Data_Noticia": "17/01/2026",
+            "Impacto": "Positivo",
+            "Link": "www.electricdrivenews.com/carros-eletricos-producao",
+            "Localizacao": "Global",
+            "Autor": "Rodrigo Pereira",
+            "Nova Coluna": "Automotivo",
+            "Coluna Teste": "Teste 167"
+            },
+            {
+            "Titulo_Noticia": "Investimentos em Energia Eólica",
+            "Sumario": "Os novos projetos que impulsionam a energia eólica no mercado",
+            "Fonte": "WIND POWER TODAY",
+            "Data_Noticia": "09/04/2026",
+            "Impacto": "Positivo",
+            "Link": "www.windpowertoday.com/investimentos-eolica",
+            "Localizacao": "Global",
+            "Autor": "Lucas Martins",
+            "Nova Coluna": "Energia Sustentável",
+            "Coluna Teste": "Teste 178"
+            }
+            
+    ]
+}

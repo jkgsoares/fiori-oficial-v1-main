@@ -1,0 +1,50 @@
+<mvc:View controllerName="numenit.com.hack2buildgenai.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:l="sap.ui.layout"
+    xmlns:core="sap.ui.core"
+	xmlns:form="sap.ui.layout.form"
+    xmlns="sap.m" displayBlock="true"
+	xmlns:unified="sap.ui.unified">
+    <Page id="page" title="{i18n>title}">
+        <l:VerticalLayout id="mainVlayout" class="sapUiContentPadding">
+            <Label id="rawMaterialLabel" text="Raw material" labelFor="rawMaterialInput" />
+            <Input id="rawMaterialInput" placeholder="Enter a raw material" />
+            <Label id="regionInputLabel" text="Region" labelFor="regionInput" />
+            <Input id="regionInput" placeholder="Enter a region" />
+
+            <Label text="Enter Earliest Date" />
+            <DateTimePicker
+			id="dateInput"
+			value= "{
+				'path': '/valueDTP3',
+				'type': 'sap.ui.model.type.DateTime',
+				'formatOptions': {
+					'pattern': 'M/d/yy h:mm a'
+				}
+			}"
+			change="handleChange"
+			class="sapUiSmallMarginBottom"/>
+            
+            <Label text="Enter Company Information" />
+            <TextArea id= "infoInput" placeholder="Enter Text" growing="true" growingMaxLines="7" width="100%"/>
+
+            <Label text="Enter Suppliers" />
+            <TextArea id= "supplierInput" placeholder="Enter Text" growing="true" growingMaxLines="7" width="100%"/>
+
+            <Label text="Upload Data" />
+            <unified:FileUploader
+                id="fileUploader"
+                fileType="json"
+                change="onFileChange"
+                placeholder="Enter .JSON File"
+                mimeType="application/json" />
+
+        </l:VerticalLayout>
+        <footer> 
+            <OverflowToolbar id="otbFooter">
+                <ToolbarSpacer id="tbs1"/>
+                <Button id="btnSearch" type="Emphasized" text="Clipping" press=".onNavToNewsList"/>
+            </OverflowToolbar>
+        </footer>
+    </Page>
+</mvc:View>
